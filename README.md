@@ -1,5 +1,5 @@
 ![](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)
-<h1 align="center">### Hi 👋, I'M Dhieu David</h1>
+<h1 align="center">Hi 👋, I'm Dhieu David</h1>
 <h3 align="center">A passionate backend Junior Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
