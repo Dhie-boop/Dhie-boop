@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dhieu David</h1>
-<h3 align="center">A passionate backend Junior Developer</h3>
+<h1 align="center">Hey there!👋, Welcome to my Github I'm **Dhieu David** </h1>
+<h4 align="center">"Coding is the hobby and a 💖 love for all things tech. When I'm not concocting digital spells, you can find me chasing bugs, sipping coffee ☕️, and dreaming up the next big thing. Feel free to drop by and say hi! 🚀✨"</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhie-boop&label=Profile%20views&color=0e75b6&style=flat" alt="dhie-boop" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mapeei_d_d" target="blank"><img src="https://img.shields.io/twitter/follow/mapeei_d_d?logo=twitter&style=for-the-badge" alt="mapeei_d_d" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Microsoft Azure AI & ML**
-
-- 💬 Ask me about **Django, HTML, CSS**
-
-- 📫 How to reach me **dhieumajok211@gmail.com**
+- 🌱 I’m currently learning **Microsoft Azure AI & ML**
+- 📫 Let's connect **https://linkedin.com/dhieu-david**
 
 - ⚡ Fun fact **I'm friendly**
 
