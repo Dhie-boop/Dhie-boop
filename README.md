@@ -26,7 +26,7 @@
 [![An image of @dhieu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhieu)](https://holopin.io/@dhieu)
 
 <p><img align="left" color="dark" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhie-boop&show_icons=true&locale=en&layout=compact" alt="dhie-boop" /></p>
-
+![Dhieu's Stats](https://github-readme-stats.vercel.app/api?username=dhie-boop&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <p>&nbsp;<img align="center" color="dark" src="https://github-readme-stats.vercel.app/api?username=dhie-boop&show_icons=true&locale=en" alt="dhie-boop" /></p>
 
 
