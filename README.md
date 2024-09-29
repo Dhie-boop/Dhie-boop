@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!👋, Welcome to my Github I'm Dhieu David </h1>
+<h1 align="center">Hey there!👋, I'm Dhieu David </h1>
 <h4 align="center">"Coding is the hobby and a 💖 love for all things tech. When I'm not concocting digital spells, you can find me chasing bugs, sipping coffee ☕️, and dreaming up the next big thing. Feel free to drop by and say hi! 🚀✨"</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
