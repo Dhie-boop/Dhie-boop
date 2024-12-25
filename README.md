@@ -4,22 +4,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhie-boop&label=Profile%20views&color=0e75b6&style=flat" alt="dhie-boop" /> </p>
 
-- 🌱 Ask me anything in  **Django, Flask, FastAPI**
+- 🌱 Ask me anything in **Django, Flask, FastAPI**
 - 🌱 I’m currently learning **React**
-- 📫 Let's connect **https://linkedin.com/dhieu-david**
+- 📫 Let's connect **[LinkedIn](https://linkedin.com/in/dhieu-david)**
 - ⚡ Fun fact **I'm friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/dhieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dhieu" height="30" width="40" /></a>
-<a href="https://twitter.com/mapeei_d_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mapeei_d_d" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhieu-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhieu-david/" height="30" width="40" /></a>
-<a href="https://fb.com/dhieu_david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhieu_david" height="30" width="40" /></a>
-<a href="https://instagram.com/dhieu_david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhieu_david" height="30" width="40" /></a>
+  <a href="https://dev.to/dhieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dhieu" height="30" width="40" /></a>
+  <a href="https://twitter.com/mapeei_d_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mapeei_d_d" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dhieu-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhieu-david" height="30" width="40" /></a>
+  <a href="https://fb.com/dhieu_david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhieu_david" height="30" width="40" /></a>
+  <a href="https://instagram.com/dhieu_david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhieu_david" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
+<p align="left">
   <!-- Python Ecosystem -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -51,9 +51,6 @@
   </a>
 
   <!-- Hosting Providers -->
-  <a href="https://www.pythonanywhere.com/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/13156423/92297379-3cc29f00-ef2a-11ea-960f-bc1a0a6ce5c7.png" alt="pythonanywhere" width="40" height="40"/>
-  </a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
@@ -73,6 +70,3 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhie-boop&show_icons=true&locale=en&theme=dark" alt="dhie-boop" />
 </p>
-
-
-
