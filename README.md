@@ -52,7 +52,7 @@
 
   <!-- Hosting Providers -->
   <a href="https://www.pythonanywhere.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pythonanywhere/pythonanywhere-icon.svg" alt="pythonanywhere" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/13156423/92297379-3cc29f00-ef2a-11ea-960f-bc1a0a6ce5c7.png" alt="pythonanywhere" width="40" height="40"/>
   </a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
