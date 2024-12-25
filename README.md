@@ -1,6 +1,6 @@
 <h1 align="center">Hey!👋, I'm Dhieu David </h1>
 <h4 align="center">Coding is my passion. When I'm not fixing bugs or sipping coffee, I'm dreaming up the next big thing. Say hi! 🚀</h4>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdiOTYzMWM2ZjE4NTEyM2Y0NmFjMTg3OWVkMmUyMzM1MmI2NzQ2OCZjdD1n/3oKIPo7oI8g5b1ZQ2U/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhie-boop&label=Profile%20views&color=0e75b6&style=flat" alt="dhie-boop" /> </p>
 
