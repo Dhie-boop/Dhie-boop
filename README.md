@@ -7,7 +7,7 @@
 - 🧠 Focused on building clean, scalable, and reliable systems  
 - 🔧 Strong experience with Python frameworks and modern web technologies  
 - 📡 Passionate about APIs, data-driven systems, and real-world problem solving
-- Currently working on [Bintraq Inc.](https://bintraq.com/) — a waste management platform for South Sudan.
+- Currently working on [Aabo](https://www.aaboapp.com/), [Khuria](https://www.joinkhuria.com) ,[Bintraq Inc.](https://bintraq.com/) . 
 
 
 ## 🌐 Let’s Stay Connected:
