@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhie-boop&label=Profile%20views&color=0e75b6&style=flat" alt="dhie-boop" /> </p>
 
-- 🌍 Based in Juba. 
 - 🧠 Focused on building clean, scalable, and reliable systems  
 - 🔧 Strong experience with Python frameworks and modern web technologies  
 - 📡 Passionate about APIs, data-driven systems, and real-world problem solving
